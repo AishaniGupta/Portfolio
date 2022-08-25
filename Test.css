@@ -1,0 +1,38 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+
+h1{
+font-size: 50px;
+color: #00ffff;
+}
+
+.Head{
+margin-top: 40px;
+margin-bottom: 100px;
+margin-left: 25px;
+}
+
+.left{
+margin-top: 5px;
+margin-bottom:5px;
+margin-left: 75px;
+}
+
+h3{
+font-color: white;
+}
+
+.PortfolioButton1{
+margin-top: 5px;
+height: 30px;
+width: 100px;
+}
+
+.PortfolioButton2{
+margin-top: 20px;
+height: 30px;
+width: 100px;
+}
+

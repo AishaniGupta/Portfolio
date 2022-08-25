@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.full {
+    width: 50%;
+    max-width: 1000px;
+    min-height: 100px;
+    margin: 0px;
+    display: grid;
+    grid-template-columns: 2fr 4fr;
+}
+.left {
+    position: initial;
+    background-color: #770737;
+    padding: 20px;
+    width: 260px;
+
+}
+.right {
+    position: initial;
+    background-color: #E0BFB8;
+    padding: 20px;
+
+
+}
+.image, .Contact, .Skills, .Language, .Hobbies, .title,
+.Summary, .Experience, .Education, .project {
+    margin-bottom: 30px;
+}
+
+.Aishani{
+width: 10rem;
+height: 10rem;
+}

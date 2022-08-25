@@ -1,0 +1,37 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+
+h1{
+font-size: 50px;
+color: #F4F6F7;
+}
+
+.Head{
+margin-top: 5px;
+margin-bottom: 5px;
+}
+
+.Navigation{
+height: 40px;
+margin-top: 5px;
+margin-bottom: 5px;
+}
+
+.Button{
+margin-top:5px;
+margin-bottom:5px;
+margin-left: 2px;
+margin-right; 2px;
+height: 30px;
+width: 335px;
+font-size: 15px;
+}
+
+h2{
+font-size: 48px;
+color: white;
+margin-left: 5px;
+margin-top: 15px;
+}
